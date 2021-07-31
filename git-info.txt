@@ -1,0 +1,23 @@
+Git initialization:
+    git init
+    git add .
+    git commit -m 'Init project'
+    git remote add origin https://github.com/username/repo
+    git branch -M main
+    git push origin main
+
+Branch names:
+    info-information
+    feat-feature-or-new-functions
+    fix-fixing-bugs
+    deploy-deploing-app-to-the-server
+
+Commit names:
+    info: information
+    feat: feature, new functions
+    fix: fixing bugs
+    deploy: deploing ap to the server
+
+    Example:
+        keyword: description
+        info: adding git info
